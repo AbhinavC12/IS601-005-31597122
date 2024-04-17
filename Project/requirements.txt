@@ -27,7 +27,7 @@ mysql-connector-python==8.0.31
 packaging==21.3
 platformdirs==2.5.2
 pluggy==1.0.0
-protobuf==3.20.1
+protobuf==3.20.2
 py==1.11.0
 pyparsing==3.0.9
 pytest==7.1.3
